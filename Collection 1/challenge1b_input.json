@@ -1,0 +1,8 @@
+{
+  "persona": "Travel Blogger exploring South of France",
+  "job": "Identify top recommended places, travel tips, and must-do activities from the guides.",
+  "documents": [
+    "south_guide1.pdf",
+    "south_guide2.pdf"
+  ]
+}
